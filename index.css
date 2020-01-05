@@ -1,0 +1,39 @@
+body
+{
+  /*background-image: url("back2.jpg");*/
+  background-color: #dfe1ee;
+}
+.button {
+  
+  color: white;
+  border: 0.5px solid blue;
+  padding: 1px 10px;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 20px;
+}
+
+.button1
+{
+  background-color: #3b5998;
+  border: 1px solid blue;
+  padding: 8px 8px;
+  color: white;
+  cursor: pointer;
+  border-top-width: 2px;
+  font-size: 30px;
+
+}
+
+.button:hover {
+  background-color: white; /* Green */
+  color: blue;
+}
+
+.button1:hover {
+  background-color: white; /* Green */
+  color: blue;
+}
+
